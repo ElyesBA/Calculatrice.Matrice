@@ -5,8 +5,6 @@ import main.structures.Matrice;
 public class Operations {
 
 	public Matrice addition(Matrice a, Matrice b) {
-		a = null;
-		b = null;
 		return null;
 	}
 
