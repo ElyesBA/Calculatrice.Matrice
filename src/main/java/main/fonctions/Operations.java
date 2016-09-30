@@ -5,7 +5,6 @@ import main.structures.Matrice;
 public class Operations {
 
 	public static Matrice addition(Matrice a, Matrice b) {
-		return null;
 		int lignes = a.getLignes();
 		int colonnes = a.getColonnes();
 		double[][] resultat = new double[lignes][colonnes];
